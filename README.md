@@ -39,7 +39,7 @@ The model performance is evaluated using:
 2. Precision
 3. Recall
 4. F1-Score
-5. Confusion Metrix
+5. Confusion Matrix
 6. AUC Curve (Area Under ROC Curve)
 
 Both binary and multi-class classification settings are supported.
